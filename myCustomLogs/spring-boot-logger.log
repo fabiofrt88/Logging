@@ -1,0 +1,128 @@
+2023-02-18 10:34:32,900 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting LoggingApplication using Java 19 on DESKTOP-3CBRV1P with PID 8700 (C:\Users\Fabio\Desktop\Develhope\Esercizi\Spring\Logging\target\classes started by Fabio in C:\Users\Fabio\Desktop\Develhope\Esercizi\Spring\Logging)
+2023-02-18 10:34:32,903 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.5, Spring v5.3.17
+2023-02-18 10:34:32,904 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 10:34:32,975 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-02-18 10:34:32,976 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-02-18 10:34:33,900 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2023-02-18 10:34:33,910 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2023-02-18 10:34:33,910 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2023-02-18 10:34:33,910 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2023-02-18 10:34:33,957 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-02-18 10:34:33,957 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 980 ms
+2023-02-18 10:34:34,335 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2023-02-18 10:34:34,346 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2023-02-18 10:34:34,364 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2023-02-18 10:34:34,374 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started LoggingApplication in 2.09 seconds (JVM running for 2.711)
+2023-02-18 10:34:36,487 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-18 10:34:36,487 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2023-02-18 10:34:36,488 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
+2023-02-18 10:34:36,510 INFO co.develhope.logging.controllers.BasicController [http-nio-8080-exec-1]  This is a INFO logging
+2023-02-18 10:34:46,526 DEBUG co.develhope.logging.controllers.BasicController [http-nio-8080-exec-2] This is the DEBUG logging
+2023-02-18 10:35:12,420 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting LoggingApplication using Java 19 on DESKTOP-3CBRV1P with PID 16252 (C:\Users\Fabio\Desktop\Develhope\Esercizi\Spring\Logging\target\classes started by Fabio in C:\Users\Fabio\Desktop\Develhope\Esercizi\Spring\Logging)
+2023-02-18 10:35:12,422 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.5, Spring v5.3.17
+2023-02-18 10:35:12,423 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 10:35:12,485 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-02-18 10:35:12,485 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-02-18 10:35:13,344 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2023-02-18 10:35:13,354 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2023-02-18 10:35:13,354 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2023-02-18 10:35:13,355 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2023-02-18 10:35:13,401 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-02-18 10:35:13,401 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 916 ms
+2023-02-18 10:35:13,737 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2023-02-18 10:35:13,747 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2023-02-18 10:35:13,769 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2023-02-18 10:35:13,778 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started LoggingApplication in 1.843 seconds (JVM running for 2.298)
+2023-02-18 10:35:18,974 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-18 10:35:18,975 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2023-02-18 10:35:18,975 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 0 ms
+2023-02-18 10:35:18,995 DEBUG co.develhope.logging.controllers.BasicController [http-nio-8080-exec-1] This is the DEBUG logging
+2023-02-18 10:35:22,393 INFO co.develhope.logging.controllers.BasicController [http-nio-8080-exec-2]  This is a INFO logging
+2023-02-18 11:33:46,948 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting LoggingApplication using Java 19 on DESKTOP-3CBRV1P with PID 16440 (C:\Users\Fabio\Desktop\Develhope\Esercizi\Spring\Logging\target\classes started by Fabio in C:\Users\Fabio\Desktop\Develhope\Esercizi\Spring\Logging)
+2023-02-18 11:33:46,949 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.5, Spring v5.3.17
+2023-02-18 11:33:46,950 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 11:33:47,028 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-02-18 11:33:47,028 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-02-18 11:33:47,940 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2023-02-18 11:33:47,955 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2023-02-18 11:33:47,955 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2023-02-18 11:33:47,956 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2023-02-18 11:33:48,014 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-02-18 11:33:48,015 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 986 ms
+2023-02-18 11:33:48,058 WARN org.springframework.context.support.AbstractApplicationContext [restartedMain] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'basicController': Unsatisfied dependency expressed through field 'basicService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'co.develhope.logging.services.BasicService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2023-02-18 11:33:48,062 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Stopping service [Tomcat]
+2023-02-18 11:33:48,076 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [restartedMain] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-02-18 11:33:48,106 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field basicService in co.develhope.logging.controllers.BasicController required a bean of type 'co.develhope.logging.services.BasicService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'co.develhope.logging.services.BasicService' in your configuration.
+
+2023-02-18 11:34:22,060 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting LoggingApplication using Java 19 on DESKTOP-3CBRV1P with PID 7404 (C:\Users\Fabio\Desktop\Develhope\Esercizi\Spring\Logging\target\classes started by Fabio in C:\Users\Fabio\Desktop\Develhope\Esercizi\Spring\Logging)
+2023-02-18 11:34:22,061 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.5, Spring v5.3.17
+2023-02-18 11:34:22,062 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 11:34:22,131 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-02-18 11:34:22,132 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-02-18 11:34:23,065 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2023-02-18 11:34:23,077 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2023-02-18 11:34:23,077 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2023-02-18 11:34:23,078 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2023-02-18 11:34:23,127 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-02-18 11:34:23,127 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 995 ms
+2023-02-18 11:34:23,174 WARN org.springframework.context.support.AbstractApplicationContext [restartedMain] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'basicController': Unsatisfied dependency expressed through field 'basicService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'co.develhope.logging.services.BasicService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2023-02-18 11:34:23,176 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Stopping service [Tomcat]
+2023-02-18 11:34:23,187 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [restartedMain] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-02-18 11:34:23,206 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field basicService in co.develhope.logging.controllers.BasicController required a bean of type 'co.develhope.logging.services.BasicService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'co.develhope.logging.services.BasicService' in your configuration.
+
+2023-02-18 11:35:04,165 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting LoggingApplication using Java 19 on DESKTOP-3CBRV1P with PID 10320 (C:\Users\Fabio\Desktop\Develhope\Esercizi\Spring\Logging\target\classes started by Fabio in C:\Users\Fabio\Desktop\Develhope\Esercizi\Spring\Logging)
+2023-02-18 11:35:04,167 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.5, Spring v5.3.17
+2023-02-18 11:35:04,168 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 11:35:04,235 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-02-18 11:35:04,235 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-02-18 11:35:05,148 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2023-02-18 11:35:05,160 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2023-02-18 11:35:05,160 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2023-02-18 11:35:05,161 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2023-02-18 11:35:05,210 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-02-18 11:35:05,211 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 974 ms
+2023-02-18 11:35:05,559 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2023-02-18 11:35:05,570 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2023-02-18 11:35:05,591 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2023-02-18 11:35:05,600 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started LoggingApplication in 1.948 seconds (JVM running for 2.387)
+2023-02-18 11:35:07,510 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-18 11:35:07,512 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2023-02-18 11:35:07,513 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
+2023-02-18 11:35:07,535 INFO co.develhope.logging.controllers.BasicController [http-nio-8080-exec-1] WELCOME logging
+2023-02-18 11:35:18,749 DEBUG co.develhope.logging.controllers.BasicController [http-nio-8080-exec-4] This is the Power 256
